@@ -23,7 +23,15 @@ cache.datamart.windows.com
 diagnostics.support.microsoft.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
+adnxs.com
+rad.msn.com
+rads.msn.com
+atdmt.com
+watson.events.data.microsoft.com
+asimov-win.settings.data.microsoft.com.akadns.net
 
 # Office Telemetry
 onecollector.cloudapp.aria.akadns.net
 prod.nexusrules.live.com.akadns.net
+excel-telemetry.officeapps.live.com
+watson.officeint.microsoft.com
